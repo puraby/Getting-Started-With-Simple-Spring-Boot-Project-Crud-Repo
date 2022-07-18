@@ -1,0 +1,596 @@
+2022-07-14 00:44:40,385 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 20124 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 00:44:40,387 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 00:44:40,445 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 00:44:40,445 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 00:44:41,832 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 00:44:41,832 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 00:44:41,832 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 00:44:42,104 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 00:44:42,104 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1658 ms
+2022-07-14 00:44:42,755 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 00:44:42,759 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 00:44:42,907 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 00:44:42,915 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 3.042 seconds (JVM running for 3.657)
+2022-07-14 00:45:42,404 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 4972 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 00:45:42,406 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 00:45:42,469 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 00:45:42,469 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 00:45:43,870 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 00:45:43,871 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 00:45:43,871 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 00:45:44,129 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 00:45:44,130 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1660 ms
+2022-07-14 00:45:44,751 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 00:45:44,755 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 00:45:44,868 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 00:45:44,880 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.925 seconds (JVM running for 3.517)
+2022-07-14 00:47:51,289 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 29236 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 00:47:51,292 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 00:47:51,360 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 00:47:51,361 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 00:47:52,824 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 00:47:52,840 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 00:47:52,840 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 00:47:52,950 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 00:47:52,950 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1589 ms
+2022-07-14 00:47:53,668 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 00:47:53,671 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 00:47:53,732 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 00:47:53,747 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.89 seconds (JVM running for 3.527)
+2022-07-14 00:48:44,055 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 33620 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 00:48:44,057 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 00:48:44,116 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 00:48:44,117 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 00:48:45,496 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 00:48:45,498 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 00:48:45,498 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 00:48:45,727 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 00:48:45,732 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1615 ms
+2022-07-14 00:48:46,426 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 00:48:46,433 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 00:48:46,474 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 00:48:46,491 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.872 seconds (JVM running for 3.47)
+2022-07-14 00:48:50,373 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-14 00:48:50,373 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-07-14 00:48:50,376 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] Completed initialization in 2 ms
+2022-07-14 00:51:44,411 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 33152 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 00:51:44,413 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 00:51:44,473 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 00:51:44,474 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 00:51:46,052 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 00:51:46,054 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 00:51:46,054 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 00:51:46,299 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 00:51:46,299 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1825 ms
+2022-07-14 00:51:47,061 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 00:51:47,243 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 00:51:47,449 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 00:51:47,462 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2022-07-14 00:51:47,464 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2022-07-14 00:51:47,599 INFO org.apache.catalina.core.StandardService [restartedMain] Stopping service [Tomcat]
+2022-07-14 00:51:47,608 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-14 00:51:47,628 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+java.lang.NullPointerException: null
+	at springfox.documentation.spi.service.contexts.Orderings$8.compare(Orderings.java:113)
+	at springfox.documentation.spi.service.contexts.Orderings$8.compare(Orderings.java:110)
+	at com.google.common.collect.ComparatorOrdering.compare(ComparatorOrdering.java:38)
+	at java.util.TimSort.countRunAndMakeAscending(TimSort.java:355)
+	at java.util.TimSort.sort(TimSort.java:220)
+	at java.util.Arrays.sort(Arrays.java:1438)
+	at com.google.common.collect.Ordering.sortedCopy(Ordering.java:817)
+	at springfox.documentation.spring.web.plugins.WebMvcRequestHandlerProvider.requestHandlers(WebMvcRequestHandlerProvider.java:51)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper$1.apply(DocumentationPluginsBootstrapper.java:122)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper$1.apply(DocumentationPluginsBootstrapper.java:119)
+	at com.google.common.collect.Iterators$8.transform(Iterators.java:799)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.Iterators$5.hasNext(Iterators.java:548)
+	at com.google.common.collect.ImmutableList.copyOf(ImmutableList.java:268)
+	at com.google.common.collect.ImmutableList.copyOf(ImmutableList.java:226)
+	at com.google.common.collect.FluentIterable.toList(FluentIterable.java:373)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.defaultContextBuilder(DocumentationPluginsBootstrapper.java:110)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.buildContext(DocumentationPluginsBootstrapper.java:101)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.onApplicationEvent(DocumentationPluginsBootstrapper.java:91)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.onApplicationEvent(DocumentationPluginsBootstrapper.java:53)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:176)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:169)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:143)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:421)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:378)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:938)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:586)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.midas.auth.AuthApplication.main(AuthApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2022-07-14 00:53:22,656 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 26308 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 00:53:22,657 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 00:53:22,715 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 00:53:22,715 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 00:53:24,127 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 00:53:24,129 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 00:53:24,129 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 00:53:24,281 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 00:53:24,281 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1566 ms
+2022-07-14 00:53:24,985 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 00:53:24,990 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 00:53:25,031 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 00:53:25,049 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.845 seconds (JVM running for 3.437)
+2022-07-14 00:59:12,897 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 24092 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 00:59:12,899 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 00:59:12,961 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 00:59:12,961 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 00:59:14,339 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 00:59:14,341 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 00:59:14,341 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 00:59:14,458 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 00:59:14,458 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1496 ms
+2022-07-14 00:59:15,174 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 00:59:15,179 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 00:59:15,221 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 00:59:15,238 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.818 seconds (JVM running for 3.426)
+2022-07-14 00:59:40,330 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-14 00:59:40,330 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-07-14 00:59:40,335 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2022-07-14 01:01:53,335 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 35264 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:01:53,336 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:01:53,396 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:01:53,396 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:01:54,796 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:01:54,796 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:01:54,809 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:01:54,912 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:01:54,912 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1516 ms
+2022-07-14 01:01:55,612 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:01:55,617 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:01:55,666 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:01:55,682 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.823 seconds (JVM running for 3.411)
+2022-07-14 01:08:11,692 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 33036 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:08:11,695 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:08:11,764 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:08:11,765 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:08:13,224 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:08:13,235 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:08:13,235 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:08:13,356 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:08:13,357 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1592 ms
+2022-07-14 01:08:14,116 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:08:14,121 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:08:14,162 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:08:14,175 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.93 seconds (JVM running for 3.498)
+2022-07-14 01:19:05,646 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 22284 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:19:05,647 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:19:05,705 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:19:05,706 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:19:07,204 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:19:07,220 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:19:07,220 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:19:07,349 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:19:07,351 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1645 ms
+2022-07-14 01:19:08,209 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:19:08,213 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:19:08,259 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:19:08,275 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 3.115 seconds (JVM running for 3.797)
+2022-07-14 01:20:07,391 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 35024 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:20:07,392 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:20:07,461 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:20:07,461 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:20:08,938 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:20:08,943 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:20:08,943 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:20:09,058 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:20:09,059 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1597 ms
+2022-07-14 01:20:09,823 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:20:09,828 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:20:09,869 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:20:09,882 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 3.061 seconds (JVM running for 3.675)
+2022-07-14 01:21:05,140 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 32176 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:21:05,142 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:21:05,205 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:21:05,205 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:21:06,701 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:21:06,715 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:21:06,716 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:21:06,818 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:21:06,818 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1612 ms
+2022-07-14 01:21:07,746 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:21:07,752 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:21:07,800 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:21:07,816 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 3.217 seconds (JVM running for 3.833)
+2022-07-14 01:21:16,802 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-14 01:21:16,802 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-07-14 01:21:16,802 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2022-07-14 01:24:49,820 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 17840 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:24:49,822 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:24:49,881 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:24:49,881 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:24:51,503 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:24:51,514 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:24:51,514 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:24:51,623 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:24:51,623 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1741 ms
+2022-07-14 01:24:52,408 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:24:52,640 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:24:52,807 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:24:52,819 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2022-07-14 01:24:52,837 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2022-07-14 01:24:52,953 INFO org.apache.catalina.core.StandardService [restartedMain] Stopping service [Tomcat]
+2022-07-14 01:24:52,961 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-14 01:24:52,988 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+java.lang.NullPointerException: null
+	at springfox.documentation.spi.service.contexts.Orderings$8.compare(Orderings.java:113)
+	at springfox.documentation.spi.service.contexts.Orderings$8.compare(Orderings.java:110)
+	at com.google.common.collect.ComparatorOrdering.compare(ComparatorOrdering.java:38)
+	at java.util.TimSort.countRunAndMakeAscending(TimSort.java:355)
+	at java.util.TimSort.sort(TimSort.java:220)
+	at java.util.Arrays.sort(Arrays.java:1438)
+	at com.google.common.collect.Ordering.sortedCopy(Ordering.java:817)
+	at springfox.documentation.spring.web.plugins.WebMvcRequestHandlerProvider.requestHandlers(WebMvcRequestHandlerProvider.java:51)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper$1.apply(DocumentationPluginsBootstrapper.java:122)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper$1.apply(DocumentationPluginsBootstrapper.java:119)
+	at com.google.common.collect.Iterators$8.transform(Iterators.java:799)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.Iterators$5.hasNext(Iterators.java:548)
+	at com.google.common.collect.ImmutableList.copyOf(ImmutableList.java:268)
+	at com.google.common.collect.ImmutableList.copyOf(ImmutableList.java:226)
+	at com.google.common.collect.FluentIterable.toList(FluentIterable.java:373)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.defaultContextBuilder(DocumentationPluginsBootstrapper.java:110)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.buildContext(DocumentationPluginsBootstrapper.java:101)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.onApplicationEvent(DocumentationPluginsBootstrapper.java:91)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.onApplicationEvent(DocumentationPluginsBootstrapper.java:53)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:176)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:169)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:143)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:421)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:378)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:938)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:586)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.midas.auth.AuthApplication.main(AuthApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2022-07-14 01:25:21,240 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 35032 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:25:21,242 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:25:21,307 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:25:21,308 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:25:22,924 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:25:22,924 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:25:22,924 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:25:23,030 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:25:23,039 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1731 ms
+2022-07-14 01:25:23,777 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:25:23,945 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:25:24,123 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:25:24,133 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2022-07-14 01:25:24,183 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2022-07-14 01:25:24,313 INFO org.apache.catalina.core.StandardService [restartedMain] Stopping service [Tomcat]
+2022-07-14 01:25:24,322 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-14 01:25:24,333 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+java.lang.NullPointerException: null
+	at springfox.documentation.spi.service.contexts.Orderings$8.compare(Orderings.java:113)
+	at springfox.documentation.spi.service.contexts.Orderings$8.compare(Orderings.java:110)
+	at com.google.common.collect.ComparatorOrdering.compare(ComparatorOrdering.java:38)
+	at java.util.TimSort.countRunAndMakeAscending(TimSort.java:355)
+	at java.util.TimSort.sort(TimSort.java:220)
+	at java.util.Arrays.sort(Arrays.java:1438)
+	at com.google.common.collect.Ordering.sortedCopy(Ordering.java:817)
+	at springfox.documentation.spring.web.plugins.WebMvcRequestHandlerProvider.requestHandlers(WebMvcRequestHandlerProvider.java:51)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper$1.apply(DocumentationPluginsBootstrapper.java:122)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper$1.apply(DocumentationPluginsBootstrapper.java:119)
+	at com.google.common.collect.Iterators$8.transform(Iterators.java:799)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.Iterators$5.hasNext(Iterators.java:548)
+	at com.google.common.collect.ImmutableList.copyOf(ImmutableList.java:268)
+	at com.google.common.collect.ImmutableList.copyOf(ImmutableList.java:226)
+	at com.google.common.collect.FluentIterable.toList(FluentIterable.java:373)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.defaultContextBuilder(DocumentationPluginsBootstrapper.java:110)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.buildContext(DocumentationPluginsBootstrapper.java:101)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.onApplicationEvent(DocumentationPluginsBootstrapper.java:91)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.onApplicationEvent(DocumentationPluginsBootstrapper.java:53)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:176)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:169)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:143)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:421)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:378)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:938)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:586)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.midas.auth.AuthApplication.main(AuthApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2022-07-14 01:25:43,545 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 30092 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:25:43,546 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:25:43,603 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:25:43,603 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:25:44,983 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:25:44,983 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:25:44,983 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:25:45,108 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:25:45,109 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1505 ms
+2022-07-14 01:25:45,827 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:25:45,831 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:25:45,870 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:25:45,887 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.764 seconds (JVM running for 3.331)
+2022-07-14 01:28:48,094 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 22412 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:28:48,095 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:28:48,162 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:28:48,163 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:28:49,766 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:28:49,766 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:28:49,766 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:28:49,877 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:28:49,877 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1714 ms
+2022-07-14 01:28:50,588 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:28:50,737 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:28:50,920 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:28:50,937 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2022-07-14 01:28:50,943 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2022-07-14 01:28:51,089 INFO org.apache.catalina.core.StandardService [restartedMain] Stopping service [Tomcat]
+2022-07-14 01:28:51,098 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-14 01:28:51,119 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+java.lang.NullPointerException: null
+	at springfox.documentation.spi.service.contexts.Orderings$8.compare(Orderings.java:113)
+	at springfox.documentation.spi.service.contexts.Orderings$8.compare(Orderings.java:110)
+	at com.google.common.collect.ComparatorOrdering.compare(ComparatorOrdering.java:38)
+	at java.util.TimSort.countRunAndMakeAscending(TimSort.java:355)
+	at java.util.TimSort.sort(TimSort.java:220)
+	at java.util.Arrays.sort(Arrays.java:1438)
+	at com.google.common.collect.Ordering.sortedCopy(Ordering.java:817)
+	at springfox.documentation.spring.web.plugins.WebMvcRequestHandlerProvider.requestHandlers(WebMvcRequestHandlerProvider.java:51)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper$1.apply(DocumentationPluginsBootstrapper.java:122)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper$1.apply(DocumentationPluginsBootstrapper.java:119)
+	at com.google.common.collect.Iterators$8.transform(Iterators.java:799)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.Iterators$5.hasNext(Iterators.java:548)
+	at com.google.common.collect.ImmutableList.copyOf(ImmutableList.java:268)
+	at com.google.common.collect.ImmutableList.copyOf(ImmutableList.java:226)
+	at com.google.common.collect.FluentIterable.toList(FluentIterable.java:373)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.defaultContextBuilder(DocumentationPluginsBootstrapper.java:110)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.buildContext(DocumentationPluginsBootstrapper.java:101)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.onApplicationEvent(DocumentationPluginsBootstrapper.java:91)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.onApplicationEvent(DocumentationPluginsBootstrapper.java:53)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:176)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:169)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:143)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:421)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:378)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:938)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:586)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.midas.auth.AuthApplication.main(AuthApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2022-07-14 01:29:35,501 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 31624 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:29:35,503 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:29:35,563 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:29:35,563 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:29:36,967 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:29:36,968 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:29:36,968 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:29:37,085 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:29:37,085 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1522 ms
+2022-07-14 01:29:37,816 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:29:37,821 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:29:37,860 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:29:37,877 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.808 seconds (JVM running for 3.377)
+2022-07-14 01:30:39,934 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 23780 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:30:39,936 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:30:39,997 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:30:39,997 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:30:41,392 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:30:41,404 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:30:41,405 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:30:41,570 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:30:41,570 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1572 ms
+2022-07-14 01:30:42,322 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:30:42,327 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:30:42,365 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:30:42,382 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.948 seconds (JVM running for 3.609)
+2022-07-14 01:31:27,960 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 24152 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:31:27,962 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:31:28,025 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:31:28,025 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:31:29,432 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:31:29,432 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:31:29,432 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:31:29,675 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:31:29,675 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1650 ms
+2022-07-14 01:31:30,432 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:31:30,436 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:31:30,481 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:31:30,493 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 2.967 seconds (JVM running for 3.537)
+2022-07-14 01:35:13,130 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 36064 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:35:13,133 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:35:13,198 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:35:13,199 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:35:14,763 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:35:14,781 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:35:14,787 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:35:14,946 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:35:14,946 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1747 ms
+2022-07-14 01:35:15,739 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:35:15,741 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:35:15,785 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:35:15,799 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 3.187 seconds (JVM running for 3.853)
+2022-07-14 01:35:28,079 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-14 01:35:28,079 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-07-14 01:35:28,082 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-07-14 01:37:51,858 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 14204 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:37:51,859 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:37:51,928 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:37:51,929 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:37:53,549 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:37:53,549 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:37:53,562 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:37:53,664 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:37:53,677 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1748 ms
+2022-07-14 01:37:54,463 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:37:54,468 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:37:54,515 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:37:54,522 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 3.113 seconds (JVM running for 3.659)
+2022-07-14 01:38:03,363 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-14 01:38:03,363 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-07-14 01:38:03,368 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2022-07-14 01:39:01,453 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 29148 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 01:39:01,455 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 01:39:01,516 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 01:39:01,516 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 01:39:03,248 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 01:39:03,262 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 01:39:03,263 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 01:39:03,374 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 01:39:03,375 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1859 ms
+2022-07-14 01:39:04,142 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 01:39:04,144 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 01:39:04,187 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 01:39:04,200 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 3.217 seconds (JVM running for 3.853)
+2022-07-14 01:39:26,853 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-14 01:39:26,853 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-07-14 01:39:26,855 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] Completed initialization in 1 ms
+2022-07-14 10:30:35,686 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 34580 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 10:30:35,687 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 10:30:35,764 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 10:30:35,764 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 10:30:37,241 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 10:30:37,252 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 10:30:37,252 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 10:30:37,371 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 10:30:37,371 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1607 ms
+2022-07-14 10:30:38,208 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 10:30:38,214 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 10:30:38,263 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 10:30:38,278 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 3.122 seconds (JVM running for 3.755)
+2022-07-14 10:30:47,343 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-14 10:30:47,343 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-07-14 10:30:47,345 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2022-07-14 12:29:44,243 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 36048 (E:\UserAuth\auth\target\classes started by Lenovo in E:\UserAuth\auth)
+2022-07-14 12:29:44,244 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 12:29:44,313 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 12:29:44,313 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 12:29:45,999 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 12:29:46,011 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 12:29:46,012 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 12:29:46,115 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 12:29:46,115 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1801 ms
+2022-07-14 12:29:46,910 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 12:29:46,915 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 12:29:46,958 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 12:29:46,972 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 3.302 seconds (JVM running for 4.111)
+2022-07-14 20:07:09,759 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 47672 (F:\UserAuth\auth\target\classes started by Lenovo in F:\UserAuth\auth)
+2022-07-14 20:07:09,858 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 20:07:09,921 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 20:07:09,921 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 20:07:10,924 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-14 20:07:11,077 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 9 ms. Found 0 JPA repository interfaces.
+2022-07-14 20:07:12,163 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 20:07:12,180 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 20:07:12,180 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 20:07:12,325 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 20:07:12,326 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2405 ms
+2022-07-14 20:07:12,810 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-14 20:07:12,872 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-07-14 20:07:13,057 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-14 20:07:13,161 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2022-07-14 20:07:13,430 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2022-07-14 20:07:13,471 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-14 20:07:14,204 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-14 20:07:14,218 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-14 20:07:14,331 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-14 20:07:14,861 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-14 20:07:14,866 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-14 20:07:14,919 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-14 20:07:14,934 INFO com.midas.auth.AuthApplication [restartedMain] Started AuthApplication in 5.747 seconds (JVM running for 6.451)
+2022-07-14 20:14:37,859 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-14 20:14:37,859 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-07-14 20:14:37,861 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-07-14 20:14:47,966 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-14 20:14:47,970 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-14 20:14:47,976 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-14 22:51:20,868 INFO com.midas.auth.AuthApplication [restartedMain] Starting AuthApplication using Java 1.8.0-332 on LAPTOP-I7829CII with PID 49668 (F:\UserAuth\auth\target\classes started by Lenovo in F:\UserAuth\auth)
+2022-07-14 22:51:20,963 INFO com.midas.auth.AuthApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-14 22:51:21,081 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-14 22:51:21,081 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-14 22:51:23,025 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-14 22:51:23,055 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 10 ms. Found 0 JPA repository interfaces.
+2022-07-14 22:51:24,766 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-07-14 22:51:24,794 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-14 22:51:24,801 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-14 22:51:25,148 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-14 22:51:25,148 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 4066 ms
+2022-07-14 22:51:26,052 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-14 22:51:26,179 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-07-14 22:51:26,563 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-14 22:51:26,751 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2022-07-14 22:51:27,033 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2022-07-14 22:51:27,083 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-14 22:51:27,447 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-14 22:51:27,465 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-14 22:51:27,500 WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [restartedMain] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userRepository'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.midas.auth.repository.UserRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2022-07-14 22:51:27,501 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-14 22:51:27,511 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Shutdown initiated...
+2022-07-14 22:51:27,565 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Shutdown completed.
+2022-07-14 22:51:27,570 INFO org.apache.catalina.core.StandardService [restartedMain] Stopping service [Tomcat]
+2022-07-14 22:51:27,598 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-14 22:51:27,636 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userRepository in com.midas.auth.controller.UserController required a bean of type 'com.midas.auth.repository.UserRepository' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.midas.auth.repository.UserRepository' in your configuration.
+
